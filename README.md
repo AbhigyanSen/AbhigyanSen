@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AbhigyanSen
-- 👀 Hardcore Carguy and a passinate Coder
+- 👀 Hardcore Carguy and a passionate Coder
 - 🌱 I’m currently enhancing my Machine Learning skills
 - 📫 email me at: abhigyansen16@gmail.com
 
