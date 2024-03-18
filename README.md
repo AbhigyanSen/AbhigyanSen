@@ -14,6 +14,6 @@
 
 ### Contact Me
 Feel free to reach out to me through the following channels:
-- YouTube: [AbhigyanSen](www.youtube.com/@AbhigyanSen.))
+- YouTube: [AbhigyanSen](www.youtube.com/@AbhigyanSen.)
 - LinkedIn: [abhigyan-sen](https://in.linkedin.com/in/abhigyan-sen)
 - Email: abhigyansen16@gmail.com
