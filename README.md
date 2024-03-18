@@ -9,11 +9,11 @@
    <li>- 🌱 I’m currently learning Deep Learning (GenAI)</li>
    <li>- 👯 I’m looking to collaborate on AI projects</li>
    <br>
-   <li>- ⚡ Fun fact: *Software Developers are Highly Paid.*</li>
+   <li>- ⚡ Fun fact: <em><strong>Software Developers are Highly Paid.</strong></em></li>
 </ul>
 
 ### Contact Me
 Feel free to reach out to me through the following channels:
-- YouTube: [Abhigyan](www.youtube.com/@AbhigyanSen.))
-- LinkedIn: [LinkedIn Profile](https://in.linkedin.com/in/abhigyan-sen)
+- YouTube: [AbhigyanSen](www.youtube.com/@AbhigyanSen.))
+- LinkedIn: [abhigyan-sen](https://in.linkedin.com/in/abhigyan-sen)
 - Email: abhigyansen16@gmail.com
