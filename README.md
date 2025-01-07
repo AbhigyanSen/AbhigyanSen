@@ -5,11 +5,11 @@
 "I am always enthusiastic about collaborating on exciting projects related to computer vision, object detection, image classification, and deep learning. Let's connect and explore the world of visual intelligence together! ✨🔍🖼️"
 
 <ul>
-   <li>- 🔭 I’m currently working on Computer Vision problems</li>
-   <li>- 🌱 I’m currently learning Deep Learning (GenAI)</li>
-   <li>- 👯 I’m looking to collaborate on AI projects</li>
+   <li> 🔭 I’m currently working on Computer Vision problems</li>
+   <li> 🌱 I’m currently learning Deep Learning (GenAI)</li>
+   <li> 👯 I’m looking to collaborate on AI projects</li>
    <br>
-   <li>- ⚡ Fun fact: <em><strong>Software Developers are Highly Paid.</strong></em></li>
+   <li> ⚡ Fun fact: <em><strong>Software Developers are Highly Paid.</strong></em></li>
 </ul>
 
 <img  height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhigyanSen&theme=merko&layout=compact"  alt="Abhigyan's Github Top Languages"  />
