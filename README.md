@@ -12,7 +12,7 @@
    <li> ⚡ Fun fact: <em><strong>Software Developers are Highly Paid.</strong></em></li>
 </ul>
 
-<img  height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhigyanSen&theme=merko&layout=compact"  alt="Abhigyan's Github Top Languages"  />
+<!-- <img  height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhigyanSen&theme=merko&layout=compact"  alt="Abhigyan's Github Top Languages"  /> -->
 
 ### Contact Me
 Feel free to reach out to me through the following channels:
